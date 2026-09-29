@@ -1,0 +1,49 @@
+########################################
+# Program: needle
+# Rundate: Sat 26 Sep 2026 04:59:53
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/80038878/inputs/dataset_dcbadaf5-9332-4618-8b81-4ed5102f8932.dat
+#    -bsequence /jetstream2/scratch/main/jobs/80038878/inputs/dataset_06ae0347-ecdf-4b6d-8a0b-658b13519a9d.dat
+#    -outfile /jetstream2/scratch/main/jobs/80038878/outputs/dataset_bc2d8cb7-dc26-409e-83dc-7c8149c68113.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/80038878/outputs/dataset_bc2d8cb7-dc26-409e-83dc-7c8149c68113.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NM_000518.5_cds_NP_000509.1_1_1
+# 2: NM_000518.5_cds_NP_000509.1_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 148
+# Identity:     147/148 (99.3%)
+# Similarity:   147/148 (99.3%)
+# Gaps:           0/148 ( 0.0%)
+# Score: 774.0
+# 
+#
+#=======================================
+
+NM_000518.5_c      1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     ||||||.|||||||||||||||||||||||||||||||||||||||||||
+NM_000518.5_c      1 MVHLTPVEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+
+NM_000518.5_c     51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000518.5_c     51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+
+NM_000518.5_c    101 PENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH*    148
+                     ||||||||||||||||||||||||||||||||||||||||||||||| 
+NM_000518.5_c    101 PENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH*    148
+
+
+#---------------------------------------
+#---------------------------------------

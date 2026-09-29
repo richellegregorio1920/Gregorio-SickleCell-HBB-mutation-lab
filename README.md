@@ -1,16 +1,9 @@
 # Disease-Gene-Mutation-Lab
 
-## Student Information
-
 **Name:** Gregorio, Richelle O.  
 **Disease/Phenotype:** Sickle Cell Disease (SCD)  
 **Gene:** HBB (Hemoglobin Subunit Beta)  
-**Reference Transcript Accession:** NM_000518.5  
-**Reference Protein Accession:** NP_000509.1  
-**Documented Variant:** NM_000518.5(HBB):c.20A>T (p.Glu7Val)  
-**ClinVar Accession:** VCV000015333.180 (Variation ID: 15333)  
-**Galaxy History Name:** Gregorio_SickleCell_HBB_mutation  
-**Date of Analysis:** September 2026
+
 
 ----
 ## Disease Background
@@ -27,8 +20,17 @@ Sickle cell disease is usually inherited in an autosomal recessive pattern, mean
 
 ## Gene and Normal Protein Function
 
-## Gene and Normal Protein Function
 
 The HBB gene provides the instructions for making the beta chain of hemoglobin. Beta-globin is part of adult hemoglobin, which is responsible for carrying oxygen from the lungs to tissues throughout the body.
 
 The normal HBB coding sequence examined in this activity is 444 bp long and produces a predicted protein of 147 amino acids. The protein begins with `MVHLTPEEKS` and ends with `VANALAHKYH`.
+
+----
+## Reference
+
+**Reference Transcript Accession:** NM_000518.5  
+**Reference Protein Accession:** NP_000509.1  
+**Documented Variant:** NM_000518.5(HBB):c.20A>T (p.Glu7Val)  
+**ClinVar Accession:** VCV000015333.180 (Variation ID: 15333)  
+**Galaxy History Name:** Gregorio_SickleCell_HBB_mutation  
+**Date of Analysis:** September 2026
